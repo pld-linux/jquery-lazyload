@@ -2,7 +2,7 @@
 Summary:	jQuery plugin for lazy loading images
 Name:		jquery-%{plugin}
 Version:	1.9.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Applications/WWW
 Source0:	https://github.com/tuupola/jquery_lazyload/archive/%{version}/%{plugin}-%{version}.tar.gz
